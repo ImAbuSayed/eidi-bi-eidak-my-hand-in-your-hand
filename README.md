@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي خذي بيدي
+> في عيوني شوقي وغدي
+> نار الحب في قلبي تقيد
+> والهوى في روحي يزيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
